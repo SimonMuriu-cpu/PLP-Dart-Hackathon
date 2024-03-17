@@ -1,6 +1,6 @@
 void main() {
-  int num1 = 10;
-  int num2 = 5;
+  int num1 = 100;
+  int num2 = 50;
 
   int resultAddition = addNumbers(num1, num2);
   int resultSubtraction = subtractNumbers(num1, num2);
