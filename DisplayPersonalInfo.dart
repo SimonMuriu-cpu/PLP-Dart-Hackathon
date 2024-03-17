@@ -1,6 +1,6 @@
 void main() {
   String name = "Simon Muriu";
-  int age = 31;
+  int age = 30;
   String school = "Power Learn Project";
   String hobby = "Watching Movies";
 
