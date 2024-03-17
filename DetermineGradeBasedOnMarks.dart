@@ -1,5 +1,5 @@
 void main() {
-  int marks = 10; // Change this value to test different marks
+  int marks = 80; // Change this value to test different marks
 
   String grade = calculateGrade(marks);
 
